@@ -1,0 +1,23 @@
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+
+}
+
+:root {
+  /*Base Color*/
+  --background-color: #09090B;
+  --surface-color: #18181B;
+  --stroke-color: #27272A;
+  --text-color-primary: #F4F4F5;
+  --text-color-secondary: #A1A1AA;
+
+
+  /*Product*/
+  --brand-gradient: linear-gradient(45deg, #FC4A1A, #F7B733);
+  --brand-color-primary: #F7B733;
+  --brand-color-secondary: #FC4A1A;
+
+}
