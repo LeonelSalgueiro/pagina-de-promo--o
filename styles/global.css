@@ -20,4 +20,20 @@
   --brand-color-primary: #F7B733;
   --brand-color-secondary: #FC4A1A;
 
+
+  /*Desktop Fonts*/
+  --font-family: "Inter", sans-serif;
+  --h1-dsk: 900 4rem/1.2 var(--font-family);
+  --h2-dsk: 900 3rem/1.2 var(--font-family);
+  --h3-dsk: 900 2rem/1.2 var(--font-family);
+
+  /*Mobile Fonts*/
+  --h1-mb: 900 2.5rem/1.2 var(--font-family);
+  --h2-mb: 900 1.5rem/1.2 var(--font-family);
+  --h3-mb: 900 1.25rem/1.2 var(--font-family);
+
+  /*Regular Fonts*/
+  --text-sm: 400 0.875rem/1.0 var(--font-family);
+  --text-md: 400 1rem/1.6 var(--font-family);
+
 }
