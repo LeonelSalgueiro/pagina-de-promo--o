@@ -23,7 +23,7 @@
   --text-color-secondary: #A1A1AA;
 
   /*Product*/
-  --brand-gradient: linear-gradient(45deg, #FC4A1A, #F7B733);
+  --brand-gradient: linear-gradient(90deg, var(--brand-color-secondary) 0%, var(--brand-color-primary) 100%);
   --brand-color-primary: #F7B733;
   --brand-color-secondary: #FC4A1A;
 
