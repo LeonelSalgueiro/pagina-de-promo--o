@@ -1,0 +1,9 @@
+
+
+#about {
+  background-color: var(--surface-color);
+
+  & .evens-columns {
+    gap: 2rem;
+  }
+}
