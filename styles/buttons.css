@@ -12,7 +12,6 @@
   border-radius: 0.5rem;
   font: var(--fw-md) var(--fs-base)/1.5rem var(--ff-sans);
   cursor: pointer;
-
   background: var(--btn-bg-color);
   color: var(--btn-color);
 
@@ -55,7 +54,7 @@
 
   &::after {
     content: attr(aria-label);
-    background-color: var(--btn-bg-color);
+    background: var(--btn-bg-color);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
